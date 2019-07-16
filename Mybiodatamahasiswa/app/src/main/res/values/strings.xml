@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUDApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_enter_title">NamaMahasiswa</string>
+    <string name="hint_enter_content">Jenis_kelaminMahasiswa</string>
+    <string name="lbl_jenis_kelamin_mahasiswa">Jenis_kelaminMahasiswa</string>
+    <string name="lbl_nama_mahasiswa">NamaMahasiswa</string>
+    <string name="lbl_Tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="lbl_Edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="msg_no_data">Tidak ada data</string>
+
+</resources>
